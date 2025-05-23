@@ -1,0 +1,5 @@
+com\example\cadastroprodutos\repository\ProdutoRepository.class
+com\example\cadastroprodutos\service\ProdutoService.class
+com\example\cadastroprodutos\controller\ProdutoController.class
+com\example\cadastroprodutos\model\Produto.class
+com\exemplo\cadastroprodutos\CadastroProdutosApplication.class
